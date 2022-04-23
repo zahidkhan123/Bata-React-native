@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Bata",
+    "slug": "bata-project",
+    "privacy": "public",
+    "description": "Bata Franchise App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/app-logo.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/app-logo.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.bata.xyz",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCCxfk3s0ZcQdkY5VA3PI7xwx9i3a7OAYE"
+        }
+      },
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": ["ts", "tsx", "js", "jsx", "json", "wasm", "svg"]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <g id="Group_12347" data-name="Group 12347" transform="translate(-3068 -1626)">
+    <g id="BG" transform="translate(3068 1626)" fill="#e4001c" stroke="#e4001c" stroke-width="1">
+      <circle cx="17.5" cy="17.5" r="17.5" stroke="none"/>
+      <circle cx="17.5" cy="17.5" r="17" fill="none"/>
+    </g>
+    <g id="Group_12346" data-name="Group 12346">
+      <g id="Group_12344" data-name="Group 12344">
+        <g id="placeholder_1_" data-name="placeholder (1)" transform="translate(3000.24 1632)">
+          <g id="Group_12066" data-name="Group 12066" transform="translate(76.76 0)">
+            <path id="Path_4355" data-name="Path 4355" d="M83.372.138A8.146,8.146,0,0,0,76.9,6.726a8.1,8.1,0,0,0,2.941,7.882,14.787,14.787,0,0,1,4.706,7.176l.471,1.765.588-1.765a15.907,15.907,0,0,1,4.941-7.412,8.065,8.065,0,0,0,2.706-6.118A8.316,8.316,0,0,0,83.372.138Zm1.647,12.823a4.706,4.706,0,1,1,4.706-4.706A4.72,4.72,0,0,1,85.019,12.961Z" transform="translate(-76.76 0)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
