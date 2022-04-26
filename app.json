@@ -27,7 +27,7 @@
       "package": "com.bata.xyz",
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyCCxfk3s0ZcQdkY5VA3PI7xwx9i3a7OAYE"
+          "apiKey": ""
         }
       },
       "versionCode": 1
